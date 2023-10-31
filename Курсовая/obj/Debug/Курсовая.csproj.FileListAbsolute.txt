@@ -1,0 +1,208 @@
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Npgsql.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Buffers.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Memory.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Text.Json.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.ValueTuple.dll
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\Npgsql.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Buffers.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Memory.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Text.Json.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\bin\Debug\System.ValueTuple.xml
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Dimas\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Npgsql.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Buffers.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Memory.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Json.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.ValueTuple.dll
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\Npgsql.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Buffers.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Memory.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Json.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Проекты\Курсовая\Курсовая\bin\Debug\System.ValueTuple.xml
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.SuggestedBindingRedirects.cache
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+F:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Npgsql.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Buffers.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Memory.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Json.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.ValueTuple.dll
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\Npgsql.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Buffers.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Memory.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Text.Json.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\bin\Debug\System.ValueTuple.xml
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Dimas\Desktop\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Npgsql.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Buffers.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Memory.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Json.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.ValueTuple.dll
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\Npgsql.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Buffers.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Memory.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Json.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\bin\Debug\System.ValueTuple.xml
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.SuggestedBindingRedirects.cache
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+Z:\ОБМЕН\МДК 11.01\П-31\Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Npgsql.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Buffers.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Memory.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Json.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.ValueTuple.dll
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\Npgsql.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Buffers.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Collections.Immutable.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Memory.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Numerics.Vectors.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Encodings.Web.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Text.Json.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Channels.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\bin\Debug\System.ValueTuple.xml
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Курсовая Покидов\Курсовая\Курсовая\obj\Debug\Курсовая.authorization.resources
